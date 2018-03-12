@@ -1,0 +1,27 @@
+.heading {
+  margin: 10px;
+  padding: 0;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.top {
+  height: 100px;
+  width: 100%;
+}
+
+
+.table {
+  margin: 20px;
+  text-align: left;
+}
+
+.table td {
+  padding: 5px;
+  text-align: left;
+}
